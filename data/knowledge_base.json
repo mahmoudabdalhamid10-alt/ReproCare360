@@ -1,0 +1,200 @@
+[
+  {
+    "id": "kb_infertility_definition",
+    "title": "What infertility means and when to get checked",
+    "text": "Infertility is usually defined as 12 months of regular unprotected sex without a pregnancy. Evaluation is recommended after 12 months, or after 6 months when the female partner is 35 or older. Both partners should be assessed, because male factors contribute to about half of cases. The first male test is a semen analysis.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_semen_analysis_basics",
+    "title": "Semen analysis basics",
+    "text": "A semen analysis measures volume, sperm concentration, total sperm number, motility, vitality and morphology. It is the first and most informative male fertility test. Collect after 2 to 7 days of abstinence, keep the sample at body temperature, and deliver it to the lab within an hour.",
+    "source": "WHO manual 2021"
+  },
+  {
+    "id": "kb_who_reference",
+    "title": "WHO 2021 lower reference limits",
+    "text": "The WHO 6th edition (2021) lower reference limits (5th centile) are: volume 1.4 mL, concentration 16 million per mL, total sperm number 39 million, progressive motility 30 percent, total motility 42 percent, vitality 54 percent, normal morphology 4 percent, pH 7.2. One low result does not diagnose infertility; repeat testing is standard.",
+    "source": "WHO manual 2021"
+  },
+  {
+    "id": "kb_sperm_cycle",
+    "title": "The 74-day sperm cycle",
+    "text": "Making new sperm (spermatogenesis) takes roughly 74 days, plus epididymal transit. A lifestyle change, illness or fever today affects the ejaculate about 10 to 12 weeks later. Retesting sooner than one cycle mostly measures noise.",
+    "source": "WHO manual 2021"
+  },
+  {
+    "id": "kb_smoking",
+    "title": "Smoking and tobacco",
+    "text": "Smoking tobacco is consistently associated with lower sperm concentration, worse motility and more DNA fragmentation. Quitting smoking is among the highest-yield lifestyle changes for semen quality, and benefits appear after one sperm cycle of about three months.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_cannabis",
+    "title": "Cannabis (marijuana, weed)",
+    "text": "Regular cannabis use is linked in several studies to reduced sperm concentration and changes in sperm shape. Evidence is moderate and partly conflicting, but men trying to conceive are commonly advised to stop marijuana use. Effects are considered reversible after about one sperm cycle.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_alcohol",
+    "title": "Alcohol",
+    "text": "Heavy alcohol drinking is associated with lower testosterone, reduced sperm concentration and poorer morphology. Moderate intake shows weaker and less consistent effects. Men with abnormal semen results are usually advised to cut alcohol to low levels.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_heat_sitting",
+    "title": "Heat, hot baths, saunas and long sitting",
+    "text": "Testicles work best a few degrees below body temperature. Frequent saunas, hot tubs, hot baths and many hours of daily sitting raise scrotal temperature and are associated with reduced sperm quality. Keeping the groin cool and breaking up sitting time are low-risk measures.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_underwear",
+    "title": "Tight underwear and clothing",
+    "text": "Tight underwear and tight jeans can raise scrotal temperature slightly. Studies show mixed effects on semen parameters; loose boxer shorts are a harmless choice when trying to conceive, but underwear style alone rarely explains an abnormal result.",
+    "source": "WHO manual 2021"
+  },
+  {
+    "id": "kb_obesity",
+    "title": "Weight, BMI and obesity",
+    "text": "Obesity and high BMI are associated with lower testosterone and worse semen parameters. Weight loss through diet and exercise can improve hormone levels and sperm quality in overweight men.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_exercise",
+    "title": "Exercise",
+    "text": "Regular moderate exercise is associated with better semen parameters and hormone profiles. Very intensive endurance training, especially prolonged cycling, may have neutral or negative effects in some studies. Moderation and recovery matter.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_cycling",
+    "title": "Cycling",
+    "text": "Long hours of cycling can cause perineal pressure, numbness and local heat. Evidence on fertility is mixed; using a well-fitted saddle, standing regularly and limiting very long rides are sensible precautions while trying to conceive.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_diet",
+    "title": "Diet and nutrition",
+    "text": "Diets rich in fish, vegetables, fruits, whole grains and nuts (a Mediterranean-style pattern) are associated with better semen quality. Processed meat, trans fats and sugary drinks are associated with worse parameters. Overall diet quality matters more than single foods.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_supplements",
+    "title": "Supplements and antioxidants",
+    "text": "Antioxidant supplements (zinc, selenium, coenzyme Q10, folate, vitamins C and E) are marketed for male fertility. Trial evidence is inconsistent and benefits are modest at best; they are not a substitute for medical evaluation. High doses can be harmful.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_anabolic_steroids",
+    "title": "Anabolic steroids and testosterone boosters",
+    "text": "Anabolic steroids and external testosterone suppress the body's own sperm production, sometimes to zero (azoospermia). Recovery after stopping can take months and is not always complete. Men trying to conceive should avoid them and tell their doctor about past use.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_varicocele",
+    "title": "Varicocele",
+    "text": "A varicocele is enlarged veins in the scrotum, often described as a bag of worms, usually on the left side. It is the most common correctable cause of male infertility and can cause a dull ache. Repair may improve semen parameters when the varicocele is palpable and semen results are abnormal.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_cryptorchidism",
+    "title": "Undescended testicle (cryptorchidism)",
+    "text": "A history of undescended testicle, even if corrected in childhood, is associated with reduced sperm production and a higher testicular cancer risk. Regular self-examination and mentioning the history at fertility visits are recommended.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_infections_sti",
+    "title": "STIs and urogenital infections",
+    "text": "Chlamydia and gonorrhea can cause epididymitis and, rarely, scarring that blocks sperm transport. Urogenital infections can temporarily worsen semen parameters. STI testing and treatment are a standard part of the fertility workup.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_mumps_orchitis",
+    "title": "Mumps orchitis",
+    "text": "Mumps infection after puberty can inflame the testicles (orchitis) and permanently reduce sperm production in a minority of cases. Vaccination prevents it. Men with a history of mumps orchitis should mention it during fertility evaluation.",
+    "source": "WHO manual 2021"
+  },
+  {
+    "id": "kb_hormone_testing",
+    "title": "Hormone blood tests (FSH, LH, testosterone)",
+    "text": "When sperm concentration is clearly low (roughly below 10 million per mL), guidelines suggest measuring FSH, LH and testosterone. High FSH points to a production problem in the testes; low values can point to a hormonal signaling problem that is sometimes treatable.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_genetic_testing",
+    "title": "Genetic tests (karyotype, Y microdeletion, CFTR)",
+    "text": "With severe oligospermia (roughly below 5 million per mL) or azoospermia, guidelines recommend a karyotype and Y-chromosome microdeletion testing. Absent vas deferens suggests CFTR mutations. Results can change treatment and carry implications for offspring, so counseling is part of the process.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_azoospermia",
+    "title": "Azoospermia: no sperm in the ejaculate",
+    "text": "Azoospermia means no sperm in the ejaculate and affects about 1 percent of men. It can be obstructive (a blockage, normal production) or non-obstructive (low production). The distinction is made with hormones, examination and sometimes genetic tests; some cases can still father children with surgical sperm retrieval.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_dna_fragmentation",
+    "title": "Sperm DNA fragmentation",
+    "text": "DNA fragmentation measures damage to sperm genetic material and is linked to miscarriage and poorer assisted-reproduction outcomes. It is not part of a routine semen analysis. Smoking, heat, infections and age can raise it; the evidence for routine testing is still developing.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_paternal_age",
+    "title": "Paternal age",
+    "text": "Sperm quality declines gradually with age: motility and morphology worsen and DNA fragmentation rises from about the 40s. Older paternal age is modestly associated with longer time to pregnancy and some conditions in offspring. The effect is gradual, not a cliff.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_stress",
+    "title": "Stress",
+    "text": "Chronic psychological stress and high cortisol are associated in studies with lower sperm concentration and testosterone. The evidence is observational, but stress reduction, sleep and exercise are low-risk measures while trying to conceive.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_sleep",
+    "title": "Sleep and circadian rhythm",
+    "text": "Short sleep, poor sleep quality and night-shift work are associated with worse semen parameters in several cohort studies, possibly through circadian disruption of testosterone. Regular, sufficient sleep is a reasonable part of preconception care.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_chemotherapy",
+    "title": "Chemotherapy, radiotherapy and fertility preservation",
+    "text": "Chemotherapy and radiotherapy can severely reduce or stop sperm production, sometimes permanently. Sperm banking before cancer treatment is the standard way to preserve fertility and should be offered before therapy starts.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_medications",
+    "title": "Everyday medications",
+    "text": "Some medications affect sperm or sexual function: certain blood-pressure drugs, antidepressants, finasteride, some antibiotics and anti-fungals, and opioids. Never stop a prescribed drug on your own; ask the prescriber whether a fertility-friendlier alternative exists.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_lubricants",
+    "title": "Lubricants",
+    "text": "Many common lubricants slow sperm in laboratory tests. When trying to conceive, use products labelled fertility-friendly or sperm-safe, or minimal amounts of alternatives like hydroxyethylcellulose-based products.",
+    "source": "WHO manual 2021"
+  },
+  {
+    "id": "kb_ejaculation_frequency",
+    "title": "Abstinence and ejaculation frequency",
+    "text": "For semen analysis, 2 to 7 days of abstinence is the standard collection window. Very long abstinence raises volume but worsens motility and DNA fragmentation; regular ejaculation every few days is reasonable when trying to conceive.",
+    "source": "WHO manual 2021"
+  },
+  {
+    "id": "kb_environment_toxins",
+    "title": "Work and environmental exposures",
+    "text": "Pesticides, solvents, heavy metals and some industrial chemicals are associated with reduced semen quality in exposed workers. Protective equipment and exposure limits matter; mention occupational exposures at fertility visits.",
+    "source": "EAU guideline family"
+  },
+  {
+    "id": "kb_phone_radiation",
+    "title": "Mobile phones and radiation",
+    "text": "Studies on keeping a phone in a trouser pocket and semen quality are inconsistent and mostly observational. Any effect is likely small; keeping the phone out of the front pocket is a zero-cost precaution.",
+    "source": "WHO manual 2021"
+  },
+  {
+    "id": "kb_lifestyle_overview",
+    "title": "Evidence-based habits overview",
+    "text": "The habits with the most consistent supporting evidence are: do not smoke, limit alcohol, keep a healthy weight, exercise moderately, sleep enough, avoid frequent heat to the groin, and review medications and steroid use with a doctor. Benefits show up after one sperm cycle, about three months.",
+    "source": "EAU guideline family"
+  }
+]
