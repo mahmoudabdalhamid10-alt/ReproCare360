@@ -1,9 +1,21 @@
-# ReproCare 360
+<picture><img src="https://github.com/user-attachments/assets/e2a1e8c8-2719-4bf8-9307-7111b5c47929" alt="ReproCare 360" width="100%" /></picture>
 
-An open, privacy-first platform for male reproductive health awareness, built for the
-Future Health Digital Innovation Challenge (Male Reproductive Health statement).
+<h1 align="center">ReproCare 360</h1>
+
+<p align="center"><strong>An open, privacy-first platform for male reproductive health awareness, built for the Future Health Digital Innovation Challenge.</strong></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-0b1220?style=for-the-badge&logo=python&logoColor=67e8f9" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-0b1220?style=for-the-badge&logo=fastapi&logoColor=67e8f9" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Streamlit-0b1220?style=for-the-badge&logo=streamlit&logoColor=67e8f9" alt="Streamlit" />
+<img src="https://img.shields.io/badge/SQLite-0b1220?style=for-the-badge&logo=sqlite&logoColor=67e8f9" alt="SQLite" />
+<img src="https://img.shields.io/badge/Docker-0b1220?style=for-the-badge&logo=docker&logoColor=67e8f9" alt="Docker" />
+</p>
+
+<p align="center"><sub>Artwork is illustrative.</sub></p>
 
 > Educational tool only. It does not diagnose or treat. Urgent symptoms need immediate medical care.
+
 
 **What makes it different:** every learned component is evaluated and the numbers are shown as they
 are, including the weak ones (see [Honest results](#honest-results)). Retrieval returns source
