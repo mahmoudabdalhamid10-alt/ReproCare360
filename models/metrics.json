@@ -1,0 +1,11 @@
+{
+  "n_samples": 100,
+  "n_altered": 12,
+  "cv": "10x repeated 5-fold (3 seeds)",
+  "auc_mean": 0.566,
+  "auc_std": 0.185,
+  "brier": 0.107,
+  "brier_constant_baseline": 0.106,
+  "verdict": "AUC within noise of 0.5 and Brier no better than a constant prediction: the model does not predict better than chance.",
+  "experimental": true
+}
