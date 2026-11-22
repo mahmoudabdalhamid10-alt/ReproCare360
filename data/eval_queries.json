@@ -1,0 +1,369 @@
+{
+  "dev": [
+    {
+      "query": "what is infertility and when should we get checked",
+      "relevant_id": "kb_infertility_definition"
+    },
+    {
+      "query": "how long trying before it counts as infertility",
+      "relevant_id": "kb_infertility_definition"
+    },
+    {
+      "query": "who should get tested first, man or woman",
+      "relevant_id": "kb_infertility_definition"
+    },
+    {
+      "query": "what does a semen analysis measure",
+      "relevant_id": "kb_semen_analysis_basics"
+    },
+    {
+      "query": "how do I prepare for a sperm test",
+      "relevant_id": "kb_semen_analysis_basics"
+    },
+    {
+      "query": "how many days abstinence before semen analysis",
+      "relevant_id": "kb_semen_analysis_basics"
+    },
+    {
+      "query": "what are the WHO normal values for sperm",
+      "relevant_id": "kb_who_reference"
+    },
+    {
+      "query": "minimum sperm concentration WHO 2021",
+      "relevant_id": "kb_who_reference"
+    },
+    {
+      "query": "how long does it take to make new sperm",
+      "relevant_id": "kb_sperm_cycle"
+    },
+    {
+      "query": "when should I repeat my semen test after lifestyle changes",
+      "relevant_id": "kb_sperm_cycle"
+    },
+    {
+      "query": "does smoking affect sperm",
+      "relevant_id": "kb_smoking"
+    },
+    {
+      "query": "cigarettes and male fertility",
+      "relevant_id": "kb_smoking"
+    },
+    {
+      "query": "will quitting tobacco improve my semen analysis",
+      "relevant_id": "kb_smoking"
+    },
+    {
+      "query": "does weed reduce sperm count",
+      "relevant_id": "kb_cannabis"
+    },
+    {
+      "query": "marijuana effect on sperm morphology",
+      "relevant_id": "kb_cannabis"
+    },
+    {
+      "query": "is cannabis bad when trying to conceive",
+      "relevant_id": "kb_cannabis"
+    },
+    {
+      "query": "does alcohol affect sperm quality",
+      "relevant_id": "kb_alcohol"
+    },
+    {
+      "query": "heavy drinking testosterone sperm",
+      "relevant_id": "kb_alcohol"
+    },
+    {
+      "query": "do hot tubs lower sperm count",
+      "relevant_id": "kb_heat_sitting"
+    },
+    {
+      "query": "sauna effect on fertility",
+      "relevant_id": "kb_heat_sitting"
+    },
+    {
+      "query": "does sitting all day hurt sperm",
+      "relevant_id": "kb_heat_sitting"
+    },
+    {
+      "query": "boxers or briefs for fertility",
+      "relevant_id": "kb_underwear"
+    },
+    {
+      "query": "tight underwear sperm",
+      "relevant_id": "kb_underwear"
+    },
+    {
+      "query": "does being overweight lower sperm count",
+      "relevant_id": "kb_obesity"
+    },
+    {
+      "query": "obesity and testosterone sperm",
+      "relevant_id": "kb_obesity"
+    },
+    {
+      "query": "does exercise improve sperm quality",
+      "relevant_id": "kb_exercise"
+    },
+    {
+      "query": "can too much gym hurt fertility",
+      "relevant_id": "kb_exercise"
+    },
+    {
+      "query": "is cycling bad for sperm",
+      "relevant_id": "kb_cycling"
+    },
+    {
+      "query": "long bike rides perineal pressure fertility",
+      "relevant_id": "kb_cycling"
+    },
+    {
+      "query": "what diet is good for sperm",
+      "relevant_id": "kb_diet"
+    },
+    {
+      "query": "foods that improve semen quality",
+      "relevant_id": "kb_diet"
+    },
+    {
+      "query": "do antioxidant supplements help sperm",
+      "relevant_id": "kb_supplements"
+    },
+    {
+      "query": "zinc coq10 male fertility evidence",
+      "relevant_id": "kb_supplements"
+    },
+    {
+      "query": "do anabolic steroids cause infertility",
+      "relevant_id": "kb_anabolic_steroids"
+    },
+    {
+      "query": "testosterone booster killed my sperm production",
+      "relevant_id": "kb_anabolic_steroids"
+    },
+    {
+      "query": "what is a varicocele",
+      "relevant_id": "kb_varicocele"
+    },
+    {
+      "query": "bag of worms feeling in scrotum",
+      "relevant_id": "kb_varicocele"
+    },
+    {
+      "query": "undescended testicle as a baby fertility",
+      "relevant_id": "kb_cryptorchidism"
+    },
+    {
+      "query": "cryptorchidism cancer risk",
+      "relevant_id": "kb_cryptorchidism"
+    },
+    {
+      "query": "can chlamydia make me infertile",
+      "relevant_id": "kb_infections_sti"
+    },
+    {
+      "query": "gonorrhea blocked sperm transport",
+      "relevant_id": "kb_infections_sti"
+    },
+    {
+      "query": "mumps swollen testicles fertility damage",
+      "relevant_id": "kb_mumps_orchitis"
+    },
+    {
+      "query": "mumps orchitis sperm production",
+      "relevant_id": "kb_mumps_orchitis"
+    },
+    {
+      "query": "when are FSH LH testosterone tested in infertility",
+      "relevant_id": "kb_hormone_testing"
+    },
+    {
+      "query": "high FSH meaning sperm production",
+      "relevant_id": "kb_hormone_testing"
+    },
+    {
+      "query": "genetic tests for very low sperm count",
+      "relevant_id": "kb_genetic_testing"
+    },
+    {
+      "query": "karyotype Y microdeletion when indicated",
+      "relevant_id": "kb_genetic_testing"
+    },
+    {
+      "query": "no sperm in ejaculate what now",
+      "relevant_id": "kb_azoospermia"
+    },
+    {
+      "query": "obstructive vs non obstructive azoospermia",
+      "relevant_id": "kb_azoospermia"
+    },
+    {
+      "query": "what is sperm DNA fragmentation",
+      "relevant_id": "kb_dna_fragmentation"
+    },
+    {
+      "query": "dna fragmentation and miscarriage",
+      "relevant_id": "kb_dna_fragmentation"
+    },
+    {
+      "query": "does age matter for male fertility",
+      "relevant_id": "kb_paternal_age"
+    },
+    {
+      "query": "sperm quality after 40",
+      "relevant_id": "kb_paternal_age"
+    },
+    {
+      "query": "does stress lower sperm count",
+      "relevant_id": "kb_stress"
+    },
+    {
+      "query": "cortisol and fertility men",
+      "relevant_id": "kb_stress"
+    },
+    {
+      "query": "does poor sleep affect sperm",
+      "relevant_id": "kb_sleep"
+    },
+    {
+      "query": "night shift work semen quality",
+      "relevant_id": "kb_sleep"
+    },
+    {
+      "query": "freezing sperm before chemotherapy",
+      "relevant_id": "kb_chemotherapy"
+    },
+    {
+      "query": "radiotherapy fertility preservation men",
+      "relevant_id": "kb_chemotherapy"
+    },
+    {
+      "query": "which medications affect sperm",
+      "relevant_id": "kb_medications"
+    },
+    {
+      "query": "finasteride effect on fertility",
+      "relevant_id": "kb_medications"
+    },
+    {
+      "query": "are lubricants sperm friendly",
+      "relevant_id": "kb_lubricants"
+    },
+    {
+      "query": "how often should we have sex when trying to conceive",
+      "relevant_id": "kb_ejaculation_frequency"
+    },
+    {
+      "query": "long abstinence good or bad for sperm",
+      "relevant_id": "kb_ejaculation_frequency"
+    },
+    {
+      "query": "pesticides effect on semen quality",
+      "relevant_id": "kb_environment_toxins"
+    },
+    {
+      "query": "solvents heavy metals sperm work exposure",
+      "relevant_id": "kb_environment_toxins"
+    },
+    {
+      "query": "phone in pocket radiation sperm",
+      "relevant_id": "kb_phone_radiation"
+    },
+    {
+      "query": "which habits improve sperm the most",
+      "relevant_id": "kb_lifestyle_overview"
+    },
+    {
+      "query": "which lifestyle changes are proven to help sperm",
+      "relevant_id": "kb_lifestyle_overview"
+    }
+  ],
+  "held_out": [
+    {
+      "query": "we have been trying for a baby for over a year, what now",
+      "relevant_id": "kb_infertility_definition"
+    },
+    {
+      "query": "what happens at a sperm test appointment",
+      "relevant_id": "kb_semen_analysis_basics"
+    },
+    {
+      "query": "my volume was 1.1 mL is that below the limit",
+      "relevant_id": "kb_who_reference"
+    },
+    {
+      "query": "i had the flu last month, when will my semen results reflect my new habits",
+      "relevant_id": "kb_sperm_cycle"
+    },
+    {
+      "query": "my husband smokes a pack a day, does that matter for ivf",
+      "relevant_id": "kb_smoking"
+    },
+    {
+      "query": "i smoke pot every weekend, could that explain my low count",
+      "relevant_id": "kb_cannabis"
+    },
+    {
+      "query": "beer every night and sperm morphology",
+      "relevant_id": "kb_alcohol"
+    },
+    {
+      "query": "i use the sauna twice a week, should i stop while trying",
+      "relevant_id": "kb_heat_sitting"
+    },
+    {
+      "query": "should i switch to loose boxers",
+      "relevant_id": "kb_underwear"
+    },
+    {
+      "query": "will losing weight raise my testosterone",
+      "relevant_id": "kb_obesity"
+    },
+    {
+      "query": "training for a marathon while trying to conceive",
+      "relevant_id": "kb_exercise"
+    },
+    {
+      "query": "i commute by bicycle two hours a day",
+      "relevant_id": "kb_cycling"
+    },
+    {
+      "query": "is the mediterranean diet good for male fertility",
+      "relevant_id": "kb_diet"
+    },
+    {
+      "query": "should i take coenzyme q10 for sperm",
+      "relevant_id": "kb_supplements"
+    },
+    {
+      "query": "i used gym steroids last year and now we cannot conceive",
+      "relevant_id": "kb_anabolic_steroids"
+    },
+    {
+      "query": "dull ache left testicle worse after standing",
+      "relevant_id": "kb_varicocele"
+    },
+    {
+      "query": "one testicle never descended, does it matter now",
+      "relevant_id": "kb_cryptorchidism"
+    },
+    {
+      "query": "untreated std in my twenties, could it cause blockage",
+      "relevant_id": "kb_infections_sti"
+    },
+    {
+      "query": "is there a test for damaged sperm dna",
+      "relevant_id": "kb_dna_fragmentation"
+    },
+    {
+      "query": "am i too old to become a father at 48",
+      "relevant_id": "kb_paternal_age"
+    }
+  ],
+  "unrelated": [
+    "how to change a car tire",
+    "best recipe for chocolate cake",
+    "who won the football world cup",
+    "python list comprehension tutorial",
+    "cheap flights to istanbul"
+  ]
+}
