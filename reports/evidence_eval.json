@@ -1,0 +1,136 @@
+{
+  "table": [
+    {
+      "configuration": "TF-IDF only",
+      "dev": {
+        "n": 69,
+        "recall_at_1": 0.826,
+        "recall_at_3": 0.884,
+        "mrr": 0.865,
+        "misses": [
+          "cigarettes and male fertility",
+          "can too much gym hurt fertility"
+        ]
+      },
+      "held_out": {
+        "n": 20,
+        "recall_at_1": 0.4,
+        "recall_at_3": 0.5,
+        "mrr": 0.477,
+        "misses": [
+          "we have been trying for a baby for over a year, what now",
+          "i had the flu last month, when will my semen results reflect my new habits",
+          "my husband smokes a pack a day, does that matter for ivf",
+          "i smoke pot every weekend, could that explain my low count",
+          "one testicle never descended, does it matter now",
+          "untreated std in my twenties, could it cause blockage",
+          "am i too old to become a father at 48"
+        ]
+      }
+    },
+    {
+      "configuration": "BM25 only",
+      "dev": {
+        "n": 69,
+        "recall_at_1": 0.826,
+        "recall_at_3": 0.87,
+        "mrr": 0.864,
+        "misses": [
+          "cigarettes and male fertility",
+          "can too much gym hurt fertility"
+        ]
+      },
+      "held_out": {
+        "n": 20,
+        "recall_at_1": 0.4,
+        "recall_at_3": 0.4,
+        "mrr": 0.46,
+        "misses": [
+          "we have been trying for a baby for over a year, what now",
+          "i had the flu last month, when will my semen results reflect my new habits",
+          "my husband smokes a pack a day, does that matter for ivf",
+          "i smoke pot every weekend, could that explain my low count",
+          "one testicle never descended, does it matter now",
+          "untreated std in my twenties, could it cause blockage",
+          "am i too old to become a father at 48"
+        ]
+      }
+    },
+    {
+      "configuration": "Hybrid fusion",
+      "dev": {
+        "n": 69,
+        "recall_at_1": 0.826,
+        "recall_at_3": 0.87,
+        "mrr": 0.863,
+        "misses": [
+          "cigarettes and male fertility",
+          "can too much gym hurt fertility"
+        ]
+      },
+      "held_out": {
+        "n": 20,
+        "recall_at_1": 0.4,
+        "recall_at_3": 0.5,
+        "mrr": 0.475,
+        "misses": [
+          "we have been trying for a baby for over a year, what now",
+          "i had the flu last month, when will my semen results reflect my new habits",
+          "my husband smokes a pack a day, does that matter for ivf",
+          "i smoke pot every weekend, could that explain my low count",
+          "one testicle never descended, does it matter now",
+          "untreated std in my twenties, could it cause blockage",
+          "am i too old to become a father at 48"
+        ]
+      }
+    },
+    {
+      "configuration": "Hybrid + query expansion",
+      "dev": {
+        "n": 69,
+        "recall_at_1": 0.884,
+        "recall_at_3": 0.942,
+        "mrr": 0.92,
+        "misses": []
+      },
+      "held_out": {
+        "n": 20,
+        "recall_at_1": 0.65,
+        "recall_at_3": 0.7,
+        "mrr": 0.688,
+        "misses": [
+          "we have been trying for a baby for over a year, what now",
+          "i had the flu last month, when will my semen results reflect my new habits",
+          "one testicle never descended, does it matter now",
+          "am i too old to become a father at 48"
+        ]
+      }
+    }
+  ],
+  "unrelated_rejection": {
+    "total": 5,
+    "rejected": 4,
+    "details": [
+      {
+        "query": "how to change a car tire",
+        "rejected": true
+      },
+      {
+        "query": "best recipe for chocolate cake",
+        "rejected": true
+      },
+      {
+        "query": "who won the football world cup",
+        "rejected": false
+      },
+      {
+        "query": "python list comprehension tutorial",
+        "rejected": true
+      },
+      {
+        "query": "cheap flights to istanbul",
+        "rejected": true
+      }
+    ]
+  }
+      }
